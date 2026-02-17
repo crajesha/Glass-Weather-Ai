@@ -1,0 +1,7 @@
+{
+  "name": "GlassWeather AI",
+  "description": "A stunning glassmorphism weather app powered by Gemini 3 Flash with real-time Google Search grounding and AI-driven clothing recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
